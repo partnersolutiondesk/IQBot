@@ -1,6 +1,6 @@
 # Extract Data from the Document including Newline
 
-IQBot doesn't extract the text in a new line. In order to overcome this, this repo is a workaround solution 
+IQBot does not extract the text in a new line(it is observed that for documents with bounding box covering new lines of text, extracted texts are not formatted by new lines). In order to overcome this, this repo is a workaround solution 
 to implement it.
 
 This repo shows how to extract the desired text from complete paragraph of text
