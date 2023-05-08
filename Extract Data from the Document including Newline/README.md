@@ -5,6 +5,13 @@ to implement it.
 
 This repo shows how to extract the desired text from complete paragraph of text
 
+# Pre-requisites to run the bot
+* This bot contains python scripts, so python should installed in the runner machine
+* Please refer to the document below
+* https://docs.automationanywhere.com/bundle/enterprise-v2019/page/enterprise-cloud/topics/aae-client/bot-creator/commands/cloud-python-command.html
+* Install the following python libraries
+* * pip install pillow
+
 ### Dependencies
 
 * cropImage.py
